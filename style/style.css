@@ -165,3 +165,17 @@ main .first img{
         margin-top: 5px;
     }
 }
+@media screen and (min-width:700px) and (max-width:780px) {
+ 
+    .txt2 article {
+
+      margin-left: 10px;
+
+    }
+    .txt2{
+
+        margin-left: -10%;
+    }
+    
+
+}
